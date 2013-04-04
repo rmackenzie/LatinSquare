@@ -1,0 +1,4 @@
+Latin Square
+
+This program, written in Prolog, was an exercise to determine if a given input fit the requirements for a latin square.
+The input must be provided as a list of lists, and the output is given as true/false.
